@@ -9,9 +9,10 @@
 
 [图片来自《最小生成树算法》](https://zinglix.xyz/2017/09/06/mst/)
 
-![Kruskal 算法](https://zinglix.xyz/img/in-post/MST/Kruskal.gif)
-<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">Kruskal 算法</center> 
+**Kruskal 算法**
 
+![Kruskal 算法](https://zinglix.xyz/img/in-post/MST/Kruskal.gif)
+
+**Prim 算法**
 
 ![Prim 算法](https://zinglix.xyz/img/in-post/MST/Prim.gif)
-<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">Prim 算法</center> 
